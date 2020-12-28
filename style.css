@@ -1,0 +1,41 @@
+#me iframe
+{
+    width: 100%;
+}
+.contact_1 h3
+{
+    display: inline;
+}
+.contact_1 a
+{
+    text-shadow: none;
+}
+ 
+input
+{
+    background: grey
+}
+.trav{
+    border:1px solid red;
+    padding-left: 0px;
+    padding-right: 0px;
+    float: none;
+}
+.trav img{
+    width: 100%;
+}
+.trav h5, .trav p{
+    margin-left: 20px;
+}
+html{
+    scroll-behavior: smooth;
+}
+.movie{
+    font-size: 25px;
+    padding: 15px;
+    border-radius: 15px;
+    width: 100%;
+}
+.movie i {
+    float: right;
+}
